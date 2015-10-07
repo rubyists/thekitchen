@@ -1,0 +1,7 @@
+name 'audit'
+maintainer 'The Authors'
+maintainer_email 'bougyman@rubyists.com'
+license 'all_rights'
+description 'Audit examples'
+long_description 'Installs/Configures auditing'
+version '0.1.0'
