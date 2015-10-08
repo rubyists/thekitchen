@@ -1,0 +1,7 @@
+name 'securify'
+maintainer 'The Rubyists'
+maintainer_email 'bougyman@rubyists.com'
+license 'all_rights'
+description 'Security examples'
+long_description 'Installs/Configures securify'
+version '0.1.0'
