@@ -1,12 +1,9 @@
 source 'https://rubygems.org'
-group :test do
-  gem 'test-kitchen'
-  gem 'kitchen-vagrant'
-end
+
 group :development do
   gem 'berkshelf'
   gem 'rubocop'
   gem 'pry'
 end
+
 gem 'chef'
-gem 'log4r'
